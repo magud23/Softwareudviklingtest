@@ -1,5 +1,7 @@
-// Andet udkast
+
+// Andet udkast men jeg har tilføjet noget som om jeg samarbejdede online
 
 
-og tilføjelse
+//og tilføjelse fra 2.u
+
 
