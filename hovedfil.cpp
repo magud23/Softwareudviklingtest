@@ -1,7 +1,8 @@
-
-// Andet udkast men jeg har tilføjet noget som om jeg samarbejdede online
-
-
-//og tilføjelse fra 2.u
-
-
+#include "iostream"
+int main (){
+    char name;
+    cout<< "Type your name";
+    cin>>name;
+    std::cout << "Hello" <<name<<"!" << std::endl;
+    return 0;
+}
